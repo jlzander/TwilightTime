@@ -1,0 +1,12 @@
+{
+    "char_name": "henry_yazzie",
+    "output_dir": "henry_yazzie_seeds",
+    "num_images": 2,
+    "width": 1024,
+    "height": 1024,
+    "steps": 30,
+    "guidance_scale": 7.0,
+    "prompt": "Photorealistic close-up portrait of one middle-aged Native American man, late-40s, 1964 rural Washington. Lean weathered face, short dark hair with some gray, calm serious eyes. Small-town sheriff uniform: khaki shirt, dark tie, badge, single cattleman's crease cowboy hat. Soft overcast daylight, moody cinematic look, high detail.",
+    "_old_prompt": "Photorealistic close-up portrait of one middle-aged Native American man, late-40s, 1964 rural Washington. Lean weathered face, short dark hair with some gray, calm serious eyes. Small-town sheriff uniform: khaki shirt, dark tie, badge, single cattleman's crease cowboy hat. Soft overcast daylight, moody cinematic look, high detail.",
+    "negative_prompt": "cartoon, illustration, anime, CGI, 3d render, painting, deformed, distorted, caricature, stylized, headdress, war paint, feathers, beads, fringe, stereotype, costume, multiple people, two faces, double exposure, reflection, big smile, teeth visible"
+}
